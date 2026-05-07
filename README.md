@@ -9,6 +9,7 @@ Một bộ kỹ năng (Skill) đặc biệt dành cho AI Agent, đóng vai trò 
 - **Signal Detection:** Phát hiện và chấm điểm xu hướng (Signal Score: 0-10) để phân biệt "trend xịn" và "tin nhiễu".
 - **Cross-Source Triangulation:** Tự động đối chiếu đa nguồn (Reddit, Twitter, News, Google Trends) để xác thực tính chính xác.
 - **Content Angle Mining:** Khai quật những góc viết chưa ai khai thác để tạo lợi thế độc quyền cho nhà sáng tạo nội dung.
+- **Trend Comparison (So sánh xu hướng):** Đặt lên bàn cân 2 hoặc nhiều từ khóa cùng lúc (VD: "AI Agent" vs "Chatbot") để so sánh Signal Score, vòng đời trend, và đối tượng khán giả. Giúp bạn ra quyết định nên ưu tiên viết bài về chủ đề nào trước.
 - **Tự động hóa:** Tích hợp với workflow `pa-start` (kiểm tra đầu ngày) với chế độ **Quick Scan**.
 
 ## 🚀 Cách cài đặt
