@@ -1,7 +1,7 @@
 # Trend Viral Finder
 
 **Phiên bản:** 2.2.0
-**Loại:** AI Agent Skill (Antigravity/Cursor/Cline)
+**Loại:** AI Agent Skill (Antigravity/Claude)
 
 Một bộ kỹ năng (Skill) đặc biệt dành cho AI Agent, đóng vai trò như một chuyên gia nghiên cứu xu hướng (Trend Research Analyst). Skill này giúp AI tự động lùng sục internet, phân tích tín hiệu mạng xã hội, tin tức và tìm ra những nội dung viral thực sự trước khi chúng bão hòa.
 
